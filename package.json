@@ -1,0 +1,22 @@
+{
+  "name": "vas-frontend-trainee-assignment",
+  "version": "1.0.0",
+  "description": "### Описание Написать приложение-редактор, для создания баннеров. За основу нужно взять [баннер из stories](https://i.imgur.com/K3ituxT.png) на главной Авито. Баннер создаётся из формы, которую можно заполнить на странице и сериализовать в `json`. Получившийся баннер можно экспортировать картинкой, а также как разметку.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corsar6599442/vas-frontend-trainee-assignment.git"
+  },
+  "author": "Mikhail Zakharov <corsar6599442@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corsar6599442/vas-frontend-trainee-assignment/issues"
+  },
+  "homepage": "https://github.com/corsar6599442/vas-frontend-trainee-assignment#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
+}
