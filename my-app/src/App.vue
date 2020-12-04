@@ -25,6 +25,10 @@
         />
       </div>
 
+    <v-main>
+      <Banner/>
+    </v-main>
+
       <v-spacer></v-spacer>
 
       <v-btn
@@ -45,12 +49,14 @@
 
 <script>
 import HelloWorld from './components/HelloWorld';
+import Banner from './components/Banner';
 
 export default {
   name: 'App',
 
   components: {
     HelloWorld,
+    Banner
   },
 
   data: () => ({
